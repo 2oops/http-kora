@@ -1,0 +1,25 @@
+{
+  "name": "http-kora",
+  "version": "1.0.0",
+  "description": "this is a primary project of NodeJS study. 1. First, we create a JS file named server-demo.js, save and run \"node server.js\". plus, we get a stdout \"hello world\", for more information please link to \"https://www.runoob.com/nodejs/nodejs-http-server.html\" OK, we carry out the first step.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node server.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2oops/http-kora.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2oops/http-kora/issues"
+  },
+  "homepage": "https://github.com/2oops/http-kora#readme",
+  "dependencies": {
+    "formidable": "^3.5.2"
+  }
+}
