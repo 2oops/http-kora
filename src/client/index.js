@@ -8,8 +8,8 @@
  * :date last edited: 2024-12-25 11:42:11
  */
 
-let server = require("./server");
-let router = require("./router");
+let server = require("../serve");
+let router = require("../router");
 let requestHandlers = require("./requestHandlers");
 let handle = {};
 
